@@ -1,2 +1,3 @@
-# Downloader
-Easiest way to download some videos
+NEED PYTHON INSTALLED
+
+Execute installer.bat and create a shortcut for start.bat
